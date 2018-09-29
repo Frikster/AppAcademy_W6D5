@@ -1,0 +1,17 @@
+.clock2 {
+  font-family: 'Krub', sans-serif;
+  background-color: orange;
+  display: flex;
+  flex-flow: column;
+  width: 550px;
+}
+
+.time {
+  display: flex;
+  justify-content:  space-between;
+}
+
+.date {
+  display: flex;
+  justify-content:  space-between;
+}
